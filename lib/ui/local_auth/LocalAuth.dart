@@ -12,7 +12,6 @@ class LocalAuthExample extends StatefulWidget {
   final String title;
 
   LocalAuthExample({Key key, this.title}) : super(key: key);
-
   @override
   _LocalAuthState createState() => _LocalAuthState();
 }
